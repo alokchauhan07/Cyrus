@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs.txt
+blacklist.txt
+config.json
+known_chats.json
+.env
